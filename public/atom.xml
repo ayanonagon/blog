@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2013-10-14T23:35:43-07:00</updated>
+  <updated>2013-10-15T08:20:52-07:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Ayaka Nonaka]]></name>
@@ -18,7 +18,7 @@
     <link href="http://yoursite.com/blog/2013/10/14/hello-world/"/>
     <updated>2013-10-14T22:01:00-07:00</updated>
     <id>http://yoursite.com/blog/2013/10/14/hello-world</id>
-    <content type="html"><![CDATA[<p>Hello world.</p>
+    <content type="html"><![CDATA[<p>That phrase never gets old for me. It&rsquo;s a sign that you&rsquo;re learning something new. When&rsquo;s the last time you said “Hello world”?</p>
 ]]></content>
   </entry>
   
