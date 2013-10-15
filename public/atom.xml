@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Ayaka Nonaka]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2013-10-14T21:49:48-07:00</updated>
+  <updated>2013-10-14T22:10:57-07:00</updated>
   <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ayaka Nonaka]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world.]]></title>
+    <link href="http://yoursite.com/blog/2013/10/14/hello-world/"/>
+    <updated>2013-10-14T22:01:00-07:00</updated>
+    <id>http://yoursite.com/blog/2013/10/14/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello world.</p>
+]]></content>
+  </entry>
   
 </feed>
