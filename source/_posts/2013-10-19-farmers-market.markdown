@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-Farmers' markets are an excellent place not only for picking up local produce, but also for visual exploration. Here are some snaps from the Downtown Berkeley farmer's market. Don't get too hungry.
+Farmers' markets are an excellent place not only for picking up local produce, but also for visual exploration. Here are some snaps from the Downtown Berkeley farmers' market. Don't get too hungry.
 
 {% img /images/tomatoes_yellow_and_red.jpg %}
 {% img /images/tomatoes_yellow_and_green.jpg %}
